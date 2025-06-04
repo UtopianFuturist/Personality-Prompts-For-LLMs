@@ -1,5 +1,0 @@
-Example 1: Legal Contract Analysis Role Prompt
-"You are the General Counsel of a Fortune 500 tech company."
-
-Example 2: Financial Analysis Role Prompt
-"You are the CFO of a high-growth B2B SaaS company."
